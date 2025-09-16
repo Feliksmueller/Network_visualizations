@@ -1,26 +1,30 @@
-# Network visualizations
+<h1>Network visualizations</h1>
 
-<p align="center">
-  <img src="Scimaps_EmotionalEchoOfCulturalIntelligence.png" alt="" width="600">
-</p>
+<div align="center">
+  <img src="Scimaps_EmotionalEchoOfCulturalIntelligence.png" width="600">
+</div>
 
-<p align="center">
-  <img src="PPI.png" alt="" width="600">
-</p>
+<div align="center">
+  <img src="PPI.png" width="600">
+</div>
 
-<p align="center">
-  <img src="DNA_binding_module.png" alt="" width="400">
-  <img src="leukemia_module.png" alt="" width="400">
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="DNA_binding_module.png" width="400"></td>
+    <td align="center"><img src="leukemia_module.png" width="400"></td>
+  </tr>
+</table>
 
+<table align="center">
+  <tr>
+    <td align="center"><img src="disease_ontolgy.png" width="400"></td>
+    <td align="center"><img src="bio_ring_network.png" width="400"></td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="disease_ontolgy.png" alt="" width="400">
-  <img src="bio_ring_network.png" alt="" width="400">
-</p>
-
-<p align="center">
-  <img src="Airports_world.png" alt="" width="400">
-  <img src="Airports_Europe.png" alt="" width="400">
-</p>
-
+<table align="center">
+  <tr>
+    <td align="center"><img src="Airports_world.png" width="400"></td>
+    <td align="center"><img src="Airports_Europe.png" width="400"></td>
+  </tr>
+</table>
